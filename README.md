@@ -10,3 +10,11 @@
 ### HAPPY CODE | HAPPY MONEY | HAPPY LIFE
 
 #### © 2022 Bản quyền thuộc về giáo.làng | fb/giao.lang.bis | youtube.com/c/giáolàng
+
+###################################################################################################################
+
+## Tôi Nguyễn Anh Duy đã clone src này từ thầy Giáo Làng và xin nhắc lại đây ko phải là trí tuệ của tôi mà chỉ là thừa hưởng lại
+
+## mục đích tôi kéo src này về là để sử dụng trong quá trình học tập và và quá trình học tập cá nhân
+
+## Tôi tuyệt đối sẽ không sử dụng src này cho mục đích thương mại .chân thành ,cảm ơn !!
